@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Cyber Security**
 
 - 📫 How to reach me **nitinjha132@gmail.com**
-- <img src="https://tryhackme-badges.s3.amazonaws.com/nitinjha132.png" alt="TryHackMe">
+-
 - ⚡ Fun fact **I am Funny😂**
 - 
 <h3 align="left">Connect with me:</h3>
