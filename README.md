@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-nj&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-nj" /> </p>
 
 - 🌱 I’m currently learning **Cyber Security**
-<img src="https://tryhackme-badges.s3.amazonaws.com/nitinjha132.png" alt="TryHackMe">
 - 📫 How to reach me **nitinjha132@gmail.com**
 - ⚡ Fun fact **I am Funny😂**
 - 
