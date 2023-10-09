@@ -3,6 +3,8 @@
 
 <img align="right" alt="Hacking" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+<img align="right" alt="Hacking" width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FHarshiTsTomar&psig=AOvVaw3xB_59W44W5uQXKFiG2_zE&ust=1696924783565000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCkv8m_6IEDFQAAAAAdAAAAABA6">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-nj&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-nj" /> </p>
 
