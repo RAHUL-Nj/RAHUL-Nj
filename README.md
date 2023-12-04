@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rahul Kumar (Nj)</h1>
+<h1 align="center">Hi 👋, I'm RAHUL KUMAR (Nj) </h1>
+<h3 align="center">"࿐༆༒राधे राधे 🙏༒༆࿐"</h3>
 <h3 align="center">A passionate Ethical hacker from India</h3>
 <h3 align="center">"धर्मो रक्षति रक्षितः"🚩</h3>
 <h3 align="center">"यतो धर्मः ततो जयः"🚩</h3>
